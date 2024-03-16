@@ -1,0 +1,12 @@
+From: remusatorul04@gmail.com
+To: remusatorul04@gmail.com
+Subject: AutoSend
+R7 7840
+4198,99
+R5 6600
+3636,91
+R5 7535
+4911,34
+R7 6800
+Thinkbook i5-1335u
+2956,11

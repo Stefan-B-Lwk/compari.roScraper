@@ -1,5 +1,5 @@
 From: remusatorul04@gmail.com
-To: remusatorul04@gmail.com
+To: stefanbucur0707@gmail.com
 Subject: AutoSend
 R7 7840
 4198,99
@@ -8,5 +8,6 @@ R5 6600
 R5 7535
 4911,34
 R7 6800
+4299,00
 Thinkbook i5-1335u
 2956,11
